@@ -7,3 +7,5 @@ It is also known as the safest place for drivers because any accident is prevent
 by natural forces. These forces allow only a limited number of cars to pass the
 intersection. They also ensure that the first driver who comes to the intersection
 passes first.
+
+![Screenshot of the application](p1.png)
